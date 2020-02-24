@@ -1,0 +1,11 @@
+.form {
+  width: 700px;
+  background-color: rgb(255, 187, 17); 
+  background-position: 21px 30px, 19px 30px, 0px 0px, 0px 0px, 0px 0px, 0px 0px; 
+  background-repeat: repeat, repeat, repeat, repeat, repeat, repeat;
+  background-attachment: scroll, scroll, scroll, scroll, scroll, scroll;
+  background-image: radial-gradient(circle farthest-side at 0% 50%, rgb(255, 187, 17) 23.5%, rgba(240, 166, 17, 0) 0px), radial-gradient(circle farthest-side at 0% 50%, rgb(187, 119, 17) 24%, rgba(240, 166, 17, 0) 0px), linear-gradient(rgb(255, 187, 17) 14%, rgba(240, 166, 17, 0) 0px, rgba(240, 166, 17, 0) 85%, rgb(255, 187, 17) 0px), linear-gradient(150deg, rgb(255, 187, 17) 24%, rgb(187, 119, 17) 0px, rgb(187, 119, 17) 26%, rgba(240, 166, 17, 0) 0px, rgba(240, 166, 17, 0) 74%, rgb(187, 119, 17) 0px, rgb(187, 119, 17) 76%, rgb(255, 187, 17) 0px), linear-gradient(30deg, rgb(255, 187, 17) 24%, rgb(187, 119, 17) 0px, rgb(187, 119, 17) 26%, rgba(240, 166, 17, 0) 0px, rgba(240, 166, 17, 0) 74%, rgb(187, 119, 17) 0px, rgb(187, 119, 17) 76%, rgb(255, 187, 17) 0px), linear-gradient(90deg, rgb(187, 119, 17) 2%, rgb(255, 187, 17) 0px, rgb(255, 187, 17) 98%, rgb(187, 119, 17) 0%);
+  background-origin: padding-box, padding-box, padding-box, padding-box, padding-box, padding-box;
+  background-clip: border-box, border-box, border-box, border-box, border-box, border-box;
+  background-size: 40px 60px; --darkreader-inline-bgcolor:#c28a00; --darkreader-inline-bgimage:radial-gradient(circle farthest-side at 0% 50%, #c28a00 23.5%, rgba(182, 126, 11, 0) 0px), radial-gradient(circle farthest-side at 0% 50%, #af7010 24%, rgba(182, 126, 11, 0) 0px), linear-gradient(#c28a00 14%, rgba(182, 126, 11, 0) 0px, rgba(182, 126, 11, 0) 85%, #c28a00 0px), linear-gradient(150deg, #c28a00 24%, #af7010 0px, #af7010 26%, rgba(182, 126, 11, 0) 0px, rgba(182, 126, 11, 0) 74%, #af7010 0px, #af7010 76%, #c28a00 0px), linear-gradient(30deg, #c28a00 24%, #af7010 0px, #af7010 26%, rgba(182, 126, 11, 0) 0px, rgba(182, 126, 11, 0) 74%, #af7010 0px, #af7010 76%, #c28a00 0px), linear-gradient(90deg, #af7010 2%, #c28a00 0px, #c28a00 98%, #af7010 0%);
+}
